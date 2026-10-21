@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+azure-data-tables
+pydantic
+python-dotenv
